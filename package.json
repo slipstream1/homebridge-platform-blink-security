@@ -17,14 +17,5 @@
   "dependencies": {
     "node-blink-security": "^3.0.2",
     "node-async-locks": "^1.0.1"
-  },
-  "bugs": {
-    "url": "https://github.com/jasmas/homebridge-platform-blink-security/issues"
-  },
-  "homepage": "https://github.com/jasmas/homebridge-platform-blink-security#readme",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": ""
+  }
 }
